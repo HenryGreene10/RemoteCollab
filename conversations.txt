@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-What is your favorite TV show?
-=======
-Jose: What is your favorite animal?
->>>>>>> d92c7d7d4da627f1de088d621337f7842bbbc635
